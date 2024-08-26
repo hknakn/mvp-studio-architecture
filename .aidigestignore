@@ -1,0 +1,13 @@
+// This is a list of files that are not to be digested by the AI system.
+// Mostly used for large files that are not useful for the AI system.
+// Can be used like .gitignore
+
+
+.gitignore
+README.md
+
+.docusaurus/
+static/
+blog/
+docs/tutorial-basics
+docs/tutorial-extras
