@@ -3,7 +3,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'MVP Studio Boilerplate',
-  tagline: 'Scalable and Efficient Mobile App Development',
+  tagline: 'Scalable and Efficient Mobile App Boilerplate',
   url: 'https://hknakn.github.io',
   baseUrl: '/mvp-studio-architecture/',
   onBrokenLinks: 'throw',
