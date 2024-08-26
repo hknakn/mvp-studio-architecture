@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmvp_studio_architecture=self.webpackChunkmvp_studio_architecture||[]).push([[8519],{6895:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/mvp-studio-architecture/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

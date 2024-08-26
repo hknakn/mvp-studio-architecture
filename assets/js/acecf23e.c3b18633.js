@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmvp_studio_architecture=self.webpackChunkmvp_studio_architecture||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/mvp-studio-architecture/blog","blogTitle":"Blog","authorsListPath":"/mvp-studio-architecture/blog/authors"}')}}]);
