@@ -54,12 +54,6 @@ function HomepageHeader() {
           <Link className={styles.button} to="/docs/intro">
             Get Started
           </Link>
-          <Link
-            className={`${styles.button} ${styles.buttonOutline}`}
-            to="https://github.com/your-org/mvp-studio-architecture"
-          >
-            View on GitHub
-          </Link>
         </div>
       </div>
     </header>
