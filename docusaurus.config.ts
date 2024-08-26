@@ -4,14 +4,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'MVP Studio Boilerplate',
   tagline: 'Scalable and Efficient Mobile App Development',
-  url: 'https://your-docusaurus-url.com',
-  baseUrl: '/',
+  url: 'https://hknakn.github.io',
+  baseUrl: '/mvp-studio-architecture/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'your-org',
   projectName: 'mvp-studio-architecture',
-
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
